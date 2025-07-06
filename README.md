@@ -1,2 +1,2 @@
 # Video-Sort
-Renomeia e em ordem numerica videos de uma playlis
+Rename and sort in numerical order a playlist
